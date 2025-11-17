@@ -17,5 +17,5 @@ Jiawei Liu<sup>*</sup>, Nirav Diwan<sup>*</sup>, Zhe Wang<sup>*</sup>, __Haoyu Z
 The 39th Annual Conference on Neural Information Processing Systems, 2025
 
 - **SOUPS | Can You Walk Me Through It? Explainable SMS Phishing Detection using LLM-based Agents**<br>
-Yizhu Wang, Haoyu Zhai, Chenkai Wang, Qingying Hao, Nick A. Cohen, Roopa Foulger, Jonathan A. Handler, Gang Wang
+Yizhu Wang, __Haoyu Zhai__, Chenkai Wang, Qingying Hao, Nick A. Cohen, Roopa Foulger, Jonathan A. Handler, Gang Wang
 The 21st Symposium on Usable Privacy and Security, 2025
