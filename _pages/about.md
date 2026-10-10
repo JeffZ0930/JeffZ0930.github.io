@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an MSCS student at the University of Illinois Urbana-Champaign (UIUC), advised by Prof. [Gang Wang](https://gangw.cs.illinois.edu/) in the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/). My research interests include applying AI into security and privacy-related tasks. My past reserach projects involved using diffusion models, Large Language Models, and AI Agent on real-world security scenarios such as identity de-anonymization and phishing SMS detection. I'm also interested in building explainable and reliable LLMs/Agents for cybersafety (e.g., safe code generation).
+I'm currently a Ph.D. student at the University of Illinois Urbana-Champaign (UIUC), advised by Prof. [Gang Wang](https://gangw.cs.illinois.edu/) in the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/). My research interests lie broadly in Trustworthy AI and LLM Agents, with a particular focus on agent security, AI safety, and usable security.
+
+My recent research focuses on understanding and improving the security and reliability of LLM-powered agents, including red-teaming coding agents and developing safer code generation models. My previous work explored real-world security and privacy challenges using diffusion models and LLM-based agents, such as identity de-anonymization and explainable phishing detection. More broadly, I'm interested in building secure and reliable AI systems that can be safely deployed in real-world applications.
 
 My Curriculum Vitae can be found [here](https://JeffZ0930.github.io/files/phd_CV.pdf)
 
 News
 ------
+- 04/2026: Our work [ReCAP](https://arxiv.org/abs/2603.23559) is accepted at ICML 2026!
 - 09/2025: Our work [Revelio](https://doi.ieeecomputersociety.org/10.1109/SP63933.2026.00030) is accepted at IEEE S&P 2026! See you in San Francisco!
 - 09/2025: [PurpCode](https://github.com/purpcode-uiuc/purpcode) is accepted at NeurIPS 2025!
 - 07/2025: Our work [PurpCode](https://github.com/purpcode-uiuc/purpcode) won the 2025 [Amazon Nova AI Challenge](https://www.amazon.science/nova-ai-challenge/pushing-the-boundaries-of-secure-ai-winners-of-the-amazon-nova-ai-challenge) ($250k prize)!
@@ -20,6 +23,10 @@ News
 
 Publications
 ------
+- **ICML | CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training**<br>
+Yuxi Chen, __Haoyu Zhai__, Chenkai Wang, Rui Yang, Lingming Zhang, Gang Wang, Huan Zhang<br>
+The 43rd International Conference on Machine Learning, 2026
+
 - **IEEE S&P | Revelio: Blurred Images Can Still Disclose Your Identity**<br>
 __Haoyu Zhai__<sup>*</sup>, Shuo Wang<sup>*</sup>, Qingying Hao, Pirouz Naghavi, Gang Wang<br>
 47th IEEE Symposium on Security and Privacy, 2026
