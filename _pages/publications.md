@@ -8,18 +8,18 @@ author_profile: true
 The * sign stands for co-first authors (equal contribution). 
 You can also find the publications on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=jNO4EbUAAAAJ). 
 
-- **ICML | CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training**<br>
+- **[ICML 2026] CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training**<br>
 Yuxi Chen, __Haoyu Zhai__, Chenkai Wang, Rui Yang, Lingming Zhang, Gang Wang, Huan Zhang<br>
 The 43rd International Conference on Machine Learning, 2026
 
-- **IEEE S&P | Revelio: Blurred Images Can Still Disclose Your Identity**<br>
+- **[IEEE S&P 2026] Revelio: Blurred Images Can Still Disclose Your Identity**<br>
 __Haoyu Zhai__<sup>*</sup>, Shuo Wang<sup>*</sup>, Qingying Hao, Pirouz Naghavi, Gang Wang<br>
 The 47th IEEE Symposium on Security and Privacy, 2026
 
-- **NeurIPS | PurpCode: Reasoning for Safer Code Generation**<br>
+- **[NeurIPS 2025] PurpCode: Reasoning for Safer Code Generation**<br>
 Jiawei Liu<sup>*</sup>, Nirav Diwan<sup>*</sup>, Zhe Wang<sup>*</sup>, __Haoyu Zhai__, Xiaona Zhou, Kiet A. Nguyen, Tianjiao Yu, Muntasir Wahed, Yinlin Deng, Hadjer Benkraouda, Yuxiang Wei, Lingming Zhang, Ismini Lourentzou, Gang Wang<br>
 The 39th Annual Conference on Neural Information Processing Systems, 2025
 
-- **SOUPS | Can You Walk Me Through It? Explainable SMS Phishing Detection using LLM-based Agents**<br>
-Yizhu Wang, __Haoyu Zhai__, Chenkai Wang, Qingying Hao, Nick A. Cohen, Roopa Foulger, Jonathan A. Handler, Gang Wang
+- **[SOUPS 2026] Can You Walk Me Through It? Explainable SMS Phishing Detection using LLM-based Agents**<br>
+Yizhu Wang, __Haoyu Zhai__, Chenkai Wang, Qingying Hao, Nick A. Cohen, Roopa Foulger, Jonathan A. Handler, Gang Wang<br>
 The 21st Symposium on Usable Privacy and Security, 2025
