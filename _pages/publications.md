@@ -20,6 +20,6 @@ The 47th IEEE Symposium on Security and Privacy, 2026
 Jiawei Liu<sup>*</sup>, Nirav Diwan<sup>*</sup>, Zhe Wang<sup>*</sup>, __Haoyu Zhai__, Xiaona Zhou, Kiet A. Nguyen, Tianjiao Yu, Muntasir Wahed, Yinlin Deng, Hadjer Benkraouda, Yuxiang Wei, Lingming Zhang, Ismini Lourentzou, Gang Wang<br>
 The 39th Annual Conference on Neural Information Processing Systems, 2025
 
-- **[SOUPS 2026] Can You Walk Me Through It? Explainable SMS Phishing Detection using LLM-based Agents**<br>
+- **[SOUPS 2025] Can You Walk Me Through It? Explainable SMS Phishing Detection using LLM-based Agents**<br>
 Yizhu Wang, __Haoyu Zhai__, Chenkai Wang, Qingying Hao, Nick A. Cohen, Roopa Foulger, Jonathan A. Handler, Gang Wang<br>
 The 21st Symposium on Usable Privacy and Security, 2025
